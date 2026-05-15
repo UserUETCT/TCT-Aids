@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 1040">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 1040">
   <defs>
     <style>
       .d, .e, .f, .g, .h, .i, .j, .k, .l, .m, .n, .o, .p {
@@ -201,7 +200,7 @@
       }
     </style>
   </defs>
-  <g id="c" data-name="2024 Belgium Chamber of Representatives election LE teal &amp;amp; yellow">
+  <g >
     <rect class="au" width="1300" height="1040"/>
     <g>
       <g>
