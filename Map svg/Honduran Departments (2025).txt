@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    baseprofile="tiny"
    fill="#7c7c7c"
@@ -10,9 +9,6 @@
    version="1.2"
    viewbox="0 0 1000 739"
    width="999.99969"
-   id="svg23"
-   sodipodi:docname="2025洪都拉斯大选议会选举结果.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
