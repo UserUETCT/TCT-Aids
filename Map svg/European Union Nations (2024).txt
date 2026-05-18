@@ -1,10 +1,6 @@
 <svg
-   version="1.0"
    width="530"
    height="580"
-   id="svg2945"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="2024 EP election map.svg"
    inkscape:export-filename="..\..\..\..\Downloads\EP election map.png"
    inkscape:export-xdpi="724.52832"
    inkscape:export-ydpi="724.52832"
@@ -56,36 +52,9 @@
      inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2947">
-    <marker
-       style="overflow:visible"
-       id="TriangleStart"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="TriangleStart"
-       markerWidth="2.5"
-       markerHeight="3"
-       viewBox="0 0 5.3244081 6.1553851"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid"
-       markerUnits="userSpaceOnUse">
-
-    </marker>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath20008">
-
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath25980">
-
-    </clipPath>
   </defs>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
      inkscape:label="Non-EU"
      style="display:none"
      sodipodi:insensitive="true">
@@ -93,7 +62,6 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer1"
      inkscape:label="Countries"
      style="display:inline">
     <path
@@ -232,5 +200,4 @@
        id="Kipros"
        inkscape:connector-curvature="0" />
   </g>
-   
 </svg>
