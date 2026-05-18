@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    viewBox="51.4999 51.5 908.45383 1072.7457"
-   sodipodi:docname="Grenadian_general_election_map,_2022.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   version="1.1"
-   id="svg2"
    height="1189.0088"
    width="1059.7744"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -16,168 +11,6 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
-    <rect
-       x="66.842831"
-       y="94.506208"
-       width="54.814579"
-       height="46.186266"
-       id="rect903" />
-    <rect
-       id="rect2376"
-       height="64.704529"
-       width="115.51465"
-       y="140.69247"
-       x="415.22906" />
-    <rect
-       x="415.22906"
-       y="140.69247"
-       width="386.44809"
-       height="63.3829"
-       id="rect2376-4" />
-    <rect
-       x="415.22906"
-       y="140.69247"
-       width="115.51465"
-       height="64.704529"
-       id="rect2389" />
-    <rect
-       id="rect903-1"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       id="rect916"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect903-1-8" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect945" />
-    <rect
-       id="rect903-1-8-9"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       id="rect975"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect903-1-8-9-2" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect1005" />
-    <rect
-       id="rect903-1-8-9-2-9"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       id="rect1035"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect903-1-8-9-2-9-9" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect1152" />
-    <rect
-       id="rect903-1-8-9-2-9-9-1"
-       height="47.548203"
-       width="87.501018"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       id="rect1182"
-       height="46.186268"
-       width="54.814579"
-       y="94.50621"
-       x="66.842834" />
-    <rect
-       x="415.22906"
-       y="140.69247"
-       width="115.51465"
-       height="64.704529"
-       id="rect2376-2" />
-    <rect
-       x="415.22906"
-       y="140.69247"
-       width="115.51465"
-       height="64.704529"
-       id="rect1212" />
-    <rect
-       id="rect2376-4-1"
-       height="63.3829"
-       width="386.44809"
-       y="140.69247"
-       x="415.22906" />
-    <rect
-       id="rect1215"
-       height="63.3829"
-       width="386.44809"
-       y="140.69247"
-       x="415.22906" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="87.501015"
-       height="47.548203"
-       id="rect903-1-8-9-2-9-9-1-3" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="87.501015"
-       height="47.548203"
-       id="rect1368" />
-    <rect
-       x="415.22906"
-       y="140.69247"
-       width="386.44809"
-       height="63.3829"
-       id="rect944" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect903-1-8-9-4" />
-    <rect
-       x="66.842834"
-       y="94.50621"
-       width="54.814579"
-       height="46.186268"
-       id="rect964" />
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
@@ -211,7 +44,6 @@
        enabled="true"
        visible="true"
        empspacing="5"
-       id="grid3018"
        type="xygrid" />
   </sodipodi:namedview>
   <metadata
@@ -227,7 +59,6 @@
   </metadata>
   <g
      transform="translate(36.718761,69.670926)"
-     id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
