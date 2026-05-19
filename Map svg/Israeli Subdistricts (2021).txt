@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,15 +8,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="244.21001mm"
    height="555.625mm"
-   viewBox="0 0 244.21001 555.625"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="Winning_party_by_sub-district_in_the_2021_Israeli_legislative_election.svg">
+   viewBox="0 0 244.21001 555.625">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -49,7 +43,6 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer2"
      inkscape:label="Layer 2"
      style="display:inline">
     <path
