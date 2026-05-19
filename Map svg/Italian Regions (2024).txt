@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,17 +7,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.2"
    width="800"
    height="1030"
    viewBox="0 0 800 1030"
    stroke-linecap="square"
    stroke-linejoin="bevel"
    stroke-miterlimit="3"
-   stroke-opacity="1"
-   id="svg2"
-   inkscape:version="0.92.5 (0.92.5+69)"
-   sodipodi:docname="Italy, provinces by GDP .svg">
+   stroke-opacity="1">
   <metadata
      id="metadata8143">
     <rdf:RDF>
