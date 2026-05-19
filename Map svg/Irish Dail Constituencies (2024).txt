@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   version="1.2"
    width="1200"
    height="1200"
    viewBox="0 0 1200 1200"
    stroke-linecap="round"
    stroke-linejoin="round"
-   id="svg4027"
-   sodipodi:docname="Dail_constituencies_2025.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,7 +23,6 @@
        inkscape:isstock="true"
        inkscape:collect="always"
        preserveAspectRatio="xMidYMid">
-
     </marker>
   </defs>
   <sodipodi:namedview
@@ -52,7 +46,6 @@
      inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
-     id="layer1"
      inkscape:label="Constituencies">
     <path
        id="Dublin-South-West"
@@ -227,6 +220,4 @@
        id="Tipperary-North"
        style="fill:#ff4d66;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-
-
 </svg>
