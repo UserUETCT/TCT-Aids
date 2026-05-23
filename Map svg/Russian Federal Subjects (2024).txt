@@ -1,4 +1,3 @@
-<?xml version="1.0" standalone="no"?>
 <svg id="wrapper" viewBox="0 0 1096.28 665" preserveAspectRatio="xMinYMin" height="665" width="1096.28" style="background-color: rgb(255, 255, 255);"><metadata>
     <rdf:rdf xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
       <cc:work rdf:about="">
